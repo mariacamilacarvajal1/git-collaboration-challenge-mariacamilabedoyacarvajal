@@ -1,0 +1,5 @@
+# Documento de Notas del Proyecto
+
+1. Introducción: Este documento recoge las decisiones clave del proyecto.
+
+2. Estructura de Datos (PENDIENTE DE DEFINIR)
