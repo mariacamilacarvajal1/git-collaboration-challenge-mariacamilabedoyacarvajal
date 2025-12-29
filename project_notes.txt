@@ -2,4 +2,4 @@
 
 1. Introducción: Este documento recoge las decisiones clave del proyecto.
 
-2. Estructura de Datos: (PENDIENTE POR DEFINIR).
+2. Estructura de Datos: Hemos optado por una estructura de Árbol binario.
